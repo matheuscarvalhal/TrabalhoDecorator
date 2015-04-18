@@ -1,0 +1,9 @@
+Para melhor aproveitamento do conteúdo, recomenda-se que o apredizado seja feito na seguinte ordem:
+ 
+1. Estudo dos slides, companhando-o junto ao script do mesmo.
+
+2. Feitura do exercício, utilizando do diagrama de classes.
+
+3. Checagem da resposta com o projeto completo.
+
+Bom estudo!
